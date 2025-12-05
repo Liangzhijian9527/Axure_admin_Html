@@ -61,6 +61,8 @@
 }
 ._流程形状 {
 }
+.connector {
+}
 .box_1 {
 }
 .image {
@@ -127,6 +129,9 @@
 .primary_button {
   color:#FFFFFF;
 }
+.link_button {
+  color:#169BD5;
+}
 .table_cell {
 }
 .droplist {
@@ -154,5 +159,56 @@
   font-weight:700;
   font-style:normal;
   color:#FF0066;
+}
+.box_11 {
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+._表单禁用1 {
+}
+._形状2 {
+}
+.form_hint1 {
+  color:#999999;
+}
+.form_disabled1 {
+}
+.icon {
+}
+.primary_button1 {
+  color:#FFFFFF;
+}
+.box_12 {
+}
+.button1 {
+}
+.label2 {
+  font-size:14px;
+  text-align:left;
+}
+.text_area1 {
+  color:#000000;
+  text-align:left;
+}
+.form_disabled2 {
+}
+.flow_shape {
+}
+.refs-design-apple {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.image2 {
+}
+.horizontal_line {
+}
+.box_13 {
+}
+.line1 {
+}
+.ellipse {
 }
 textarea, select, input, button { outline: none; }
